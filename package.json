@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "init-project": "npm i & npm start",
+    "install": "npm i",
     "start": "nodemon bin/www"
   },
   "dependencies": {
